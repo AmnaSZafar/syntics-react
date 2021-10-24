@@ -5,8 +5,7 @@ import Header from './components/Header';
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 import Seminar from './pages/Seminar';
 import Apply from './pages/Apply';
-// import Login from './pages/Login';
-// import Register from './pages/Register';
+
 
 function App() {
   return (
